@@ -38,7 +38,8 @@ setup(
             'tinynumpy',
             'shapely',
             'Thermobar',
-            'pyMelt'
+            'pyMelt',
+            'PetThermoTools'
             ],
 
     classifiers=[

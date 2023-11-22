@@ -2,6 +2,8 @@
 Introduction
 ==============================
 
+**Warning! pyMELTScalc is no longer supported. Following the release of v0.1.29 the name of the main repository was changed to PetThermoTools. This repository and associated documentation is maintained solely for backwards compatibility with some published work. To see up-to-date instructions regarding how to perform thermodynamic calculations in Python please see petthermotools.readthedocs.io**
+
 Welome to pyMELTScalc - an open-source Python3 tool for performing phase equilibria calculations using the MELTS or Holland et al. (2018) thermodynamic models.
 
 Using MELTS
